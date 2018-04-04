@@ -1,2 +1,2 @@
 # TransPMJ
-Trying to translate PMJ.
+Trying to translate the book <Practical Modern Javascript>.

@@ -1,4 +1,4 @@
-第一章 ECMAScriptt 和JavaScript的未来
+# 第一章 ECMAScriptt 和JavaScript的未来
 
 JavaScript已经从1995的营销策略中获得了策略优势，成为2017年世界上应用最广泛的应用程序运行时平台上的核心程序设计经验。
 
@@ -6,7 +6,7 @@ JavaScript已经从1995的营销策略中获得了策略优势，成为2017年�
 
 JavaScript是如何成功的，接下来又将如何发展呢？
 
-Javascript标准简史
+## Javascript标准简史
 
 早在1995年，Netscape公司就设想过一个HTML无法实现的动态网络。
 

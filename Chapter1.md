@@ -12,7 +12,10 @@ JavaScript是如何成功的，接下来又将如何发展呢？
 
 布兰登用Scheme的优秀函数和Self的原型为主要原料，在10天内创建了第一个JavaScript原型。JavaScript的初始版本代号为Mocha。它没有数组或对象，并且每个错误都会引起警告（alert）。缺少异常处理是到今天为止许多操作都会导致NaN或undefined的原因。布兰登在0级DOM和JavaScript第一版上的工作，为标准化工作奠定了基础。
 
-1995年9月，JavaScript版本LiveScript被应用于Netscape Navigator 2.0 beta版。1995年12月，在Navigator 2 Beta 3发布时，它被重命名为JavaScript（由Sun公司商标化，现在归Oracle所有。这次发布后不久，Netscape推出了用于Netscape Enterprise Server脚本的服务器端JavaScript，并将其命名为LiveWire。_1 JScript，微软的反向工程JavaScript实现，于1996年捆绑的IE3。JScript是可用的Internet服务器端信息服务器（IIS）。
+1995年9月，JavaScript版本LiveScript被应用于Netscape Navigator 2.0 beta版。1995年12月，在Navigator 2 Beta 3发布时，它被重命名为JavaScript（由Sun公司商标化，现在归Oracle所有。这次发布后不久，Netscape推出了用于Netscape Enterprise Server脚本的服务器端JavaScript，并将其命名为LiveWire.[1] JScript，微软的反向工程JavaScript实现，于1996年捆绑的IE3。JScript是可用的Internet服务器端信息服务器（IIS）。
 
+1996年，ECMA的技术委员会（TCMA）将JavaScript在ECMA-262规范中的ECMAScript名称（ES）下进行了标准化。Sun公司不会把JavaScript商标所有权转让给ECMA。当微软提出JScript时，其他成员公司不愿使用这个名称，因而ECMAScript遇到了瓶颈。
+
+微软的JScript和Netscape和的JavaScript这两种实现的争端，主导了当时大部分的TC39标准委员会会议。尽管如此，委员会仍然取得了成果：确立向后兼容性为一条黄金法则，提出严格的等于运算符（=== 和!==)而不是打破现有的依赖于松散的相等比较算法（Equality Comparison Algorithm）的程序。
 References：
-1 A booklet from 1998 explains the intricacies of server-side JavaScript with LiveWire.
+[1] A booklet from 1998 explains the intricacies of server-side JavaScript with LiveWire.

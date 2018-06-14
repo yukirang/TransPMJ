@@ -17,5 +17,7 @@ JavaScript是如何成功的，接下来又将如何发展呢？
 1996年，ECMA的技术委员会（TCMA）将JavaScript在ECMA-262规范中的ECMAScript名称（ES）下进行了标准化。Sun公司不会把JavaScript商标所有权转让给ECMA。当微软提出JScript时，其他成员公司不愿使用这个名称，因而ECMAScript遇到了瓶颈。
 
 微软的JScript和Netscape和的JavaScript这两种实现的争端，主导了当时大部分的TC39标准委员会会议。尽管如此，委员会仍然取得了成果：确立向后兼容性为一条黄金法则，提出严格的等于运算符（=== 和!==)而不是打破现有的依赖于松散的相等比较算法（Equality Comparison Algorithm）的程序。
+
 References：
+
 [1] A booklet from 1998 explains the intricacies of server-side JavaScript with LiveWire.
